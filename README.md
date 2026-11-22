@@ -3,9 +3,9 @@
 A console-based 2048 game written in C for the Programming Fundamentals (Lab) course at FAST-NUCES, Karachi.
 
 ## Team
-- Jagdesh Kanjwani (26K-0567)
-- Saqib Raza (26K-0568)
 - Sumair Ahmed (26K-0800)
+- - Jagdesh Kanjwani (26K-0567)
+- Saqib Raza (26K-0568)
 
 Submitted to: Miss Hijaab Sikander
 
